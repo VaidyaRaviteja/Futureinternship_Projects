@@ -84,5 +84,3 @@ def Number_Guess_Game():
       print("Invalid input please enter an integer between 1 and 100.")
 
 print(Number_Guess_Game())
-
-3
